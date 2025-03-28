@@ -2,8 +2,8 @@
 <h3 align="center">AI & Full-Stack Developer | Innovator | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Harsh0369">
+    <img src="https://komarev.com/ghpvc/?username=Harsh0369&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh0369&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh0369&theme=tokyonight" height="180px" />
 </p>
 
 ---
@@ -57,16 +57,16 @@
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedInUsername">
+  <a href="https://linkedin.com/in/harshagarwal963">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YourTwitterHandle">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/Harsh0369">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YourEmail@gmail.com">
+  <a href="mailto:harshagarwal81528@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
